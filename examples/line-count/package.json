@@ -1,0 +1,19 @@
+{
+  "name": "line-count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "line-count.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "line-count": "./line-count.js"
+  },
+  "preferGlobal": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
