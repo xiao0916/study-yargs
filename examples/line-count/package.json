@@ -1,5 +1,5 @@
 {
-  "name": "line-count",
+  "name": "jin-line-count",
   "version": "1.0.0",
   "description": "",
   "main": "line-count.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "line-count": "./line-count.js"
+    "jin-line-count": "./line-count.js"
   },
   "preferGlobal": true,
   "keywords": [],
